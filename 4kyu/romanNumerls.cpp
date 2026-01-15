@@ -1,3 +1,5 @@
+#define BOOST_TEST_MODULE romanNumbers
+#include <boost/test/included/unit_test.hpp> 
 #include <string>
 #include <vector>
 #include <iostream>
@@ -53,5 +55,28 @@ class RomanHelper{
         }
     }
     return result_2;
+  }
+};
+
+
+BOOST_AUTO_TEST_SUITE(Romanian_Numbers)
+BOOST_AUTO_TEST_CASE(toRomanTest)
+{
+    RomanHelper roman;
+    BOOST_CHECK_EQUAL(roman.to_roman(1), "I");
+    BOOST_CHECK_EQUAL(roman.to_roman(2000), "MM");
+    BOOST_CHECK_EQUAL(roman.to_roman(1666), "MDCLXVI"); 
+    BOOST_CHECK_EQUAL(roman.to_roman(1994), "MCMXCIV");
+    BOOST_CHECK_EQUAL(roman.to_roman(444), "CDXLIV");
 }
-} RomanNumerals;
+BOOST_AUTO_TEST_CASE(fromRomanTest)
+{
+    RomanHelper roman;
+    BOOST_CHECK_EQUAL(roman.from_roman("I"), 1);
+    BOOST_CHECK_EQUAL(roman.from_roman("MM"), 2000);
+    BOOST_CHECK_EQUAL(roman.from_roman("MDCLXVI"), 1666);
+    BOOST_CHECK_EQUAL(roman.from_roman("MCMXCIV"), 1994);
+    BOOST_CHECK_EQUAL(roman.from_roman("CDXLIV"), 444);
+
+}
+BOOST_AUTO_TEST_SUITE_END()
