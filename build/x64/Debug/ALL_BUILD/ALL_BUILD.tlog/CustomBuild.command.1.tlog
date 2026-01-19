@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO-X260\DESKTOP\ZADANIAGIT\CODEWARS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars -BC:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build --check-stamp-file C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

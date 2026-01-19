@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\3828c0646910eee1f642ca3a1452cb85\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\b24ce75476a06a23c168a9ba2f4a9eca\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\dbb931cbc37df03194e8fa336bbfc77e\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5BDC98D2-8CD2-316A-97C6-1B49E5E0046B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

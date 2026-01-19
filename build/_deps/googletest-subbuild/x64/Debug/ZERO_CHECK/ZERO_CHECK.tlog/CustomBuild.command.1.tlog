@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO-X260\DESKTOP\ZADANIAGIT\CODEWARS\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\DBB931CBC37DF03194E8FA336BBFC77E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild -BC:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

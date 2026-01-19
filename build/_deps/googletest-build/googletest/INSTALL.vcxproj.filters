@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lenovo-X260\Desktop\ZadaniaGit\CodeWars\build\CMakeFiles\7b8d8bc93b66cf140b3f4955f8b227b4\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{53601D15-1E79-3BB8-98E9-76F48766C5D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

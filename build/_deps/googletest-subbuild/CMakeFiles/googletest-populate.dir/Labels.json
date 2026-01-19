@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/dbb931cbc37df03194e8fa336bbfc77e/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/b24ce75476a06a23c168a9ba2f4a9eca/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

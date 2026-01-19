@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/dbb931cbc37df03194e8fa336bbfc77e/googletest-populate.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/b24ce75476a06a23c168a9ba2f4a9eca/googletest-populate-complete.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-build.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-configure.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-download.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-install.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-mkdir.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-patch.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-test.rule
+C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/_deps/googletest-subbuild/CMakeFiles/3828c0646910eee1f642ca3a1452cb85/googletest-populate-update.rule

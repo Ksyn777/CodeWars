@@ -1,4 +1,4 @@
-#define BOOST_TEST_MODULE Hello 
+#define BOOST_TEST_MODULE divide
 #include <boost/test/included/unit_test.hpp> 
 #include <iostream>
 #include <string>

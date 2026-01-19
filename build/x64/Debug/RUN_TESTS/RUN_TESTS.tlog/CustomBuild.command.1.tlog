@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO-X260\DESKTOP\ZADANIAGIT\CODEWARS\BUILD\CMAKEFILES\B6469FF306408A34CC558D9E93760349\RUN_TESTS_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

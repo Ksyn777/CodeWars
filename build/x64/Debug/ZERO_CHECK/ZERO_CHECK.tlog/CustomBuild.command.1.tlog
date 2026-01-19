@@ -1,0 +1,10 @@
+^C:\USERS\LENOVO-X260\DESKTOP\ZADANIAGIT\CODEWARS\BUILD\CMAKEFILES\B6469FF306408A34CC558D9E93760349\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars -BC:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Lenovo-X260/Desktop/ZadaniaGit/CodeWars/build/CODEWARS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

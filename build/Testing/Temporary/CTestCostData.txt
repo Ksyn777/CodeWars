@@ -1,0 +1,4 @@
+MojeTesty 0 0
+run_tests_NOT_BUILT 0 0
+---
+run_tests_NOT_BUILT
